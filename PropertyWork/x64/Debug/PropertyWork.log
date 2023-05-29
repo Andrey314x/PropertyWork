@@ -1,0 +1,3 @@
+﻿  PropertyWork.cpp
+C:\Users\User-1\OneDrive\Рабочий стол\PropertyWork\PropertyWork\PropertyWork.cpp(77,9): warning C4101: move: неиспользованная локальная переменная
+  PropertyWork.vcxproj -> C:\Users\User-1\OneDrive\Рабочий стол\PropertyWork\x64\Debug\PropertyWork.exe

@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TaxService" Collapsed="true">
+    <Position X="20.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAEAAAAABgAAEAAAAAAAgAAAgAAAAABAAAgARAAA=</HashCode>
+      <FileName>TaxService.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Property" Collapsed="true">
+    <Position X="20.25" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAAAABAAAAAAAAAIAAAAQQAAAQA=</HashCode>
+      <FileName>Property.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Appartment" Collapsed="true">
+    <Position X="22.5" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAABAAAEAAAAABAgAAAgAAAIAAAAQAAAIAA=</HashCode>
+      <FileName>Property.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Car" Collapsed="true">
+    <Position X="18" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQhAAAEAAAAABAgAAAgAAAIAAAAQAAAAAA=</HashCode>
+      <FileName>Property.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CountryHouse" Collapsed="true">
+    <Position X="20.25" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAARAAAEAAAAABAgAAAgAAAIAAAAYAAAAAA=</HashCode>
+      <FileName>Property.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Owner" Collapsed="true">
+    <Position X="17.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAIACAAAABAAAEAAAAAAAggAAgIAAIAAAAAABCAAA=</HashCode>
+      <FileName>Owner.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PropertyFactoryMethod" Collapsed="true">
+    <Position X="23.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Owner.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ixmlio" Collapsed="true">
+    <Position X="17.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAgAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ixmlio.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ijsonio" Collapsed="true">
+    <Position X="20.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ijsonio.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

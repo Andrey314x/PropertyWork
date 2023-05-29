@@ -1,0 +1,58 @@
+{
+  "owners": [
+    {
+      "fullname": "Ivanov I.I.",
+      "inn": "123123123123",
+      "sumtax": 1943.3309,
+      "taxs": [
+        {
+          "Appartment": {
+            "tax": 555.5550000000001
+          }
+        },
+        {
+          "Appartment": {
+            "tax": 666.666
+          }
+        },
+        {
+          "Car": {
+            "tax": 54.4439
+          }
+        },
+        {
+          "CountryHouse": {
+            "tax": 666.666
+          }
+        }
+      ]
+    },
+    {
+      "fullname": "Sidorov S.S.",
+      "inn": "321321321321",
+      "sumtax": 9960.604,
+      "taxs": [
+        {
+          "Appartment": {
+            "tax": 800.0
+          }
+        },
+        {
+          "Car": {
+            "tax": 4900.0
+          }
+        },
+        {
+          "Car": {
+            "tax": 4200.0
+          }
+        },
+        {
+          "CountryHouse": {
+            "tax": 60.604
+          }
+        }
+      ]
+    }
+  ]
+}

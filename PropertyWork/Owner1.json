@@ -1,0 +1,30 @@
+{
+  "fullname": "Ivanov I.I.",
+  "inn": "123123123123",
+  "properties": [
+    {
+      "Appartment": {
+        "square": 55.5,
+        "worth": 555555
+      }
+    },
+    {
+       "Appartment": {
+         "square": 66.6,
+         "worth": 666666
+       }
+    },
+    {
+        "Car": {
+          "horsepower": 1.7,
+          "worth": 77777
+        }
+    },
+    {
+      "CountryHouse": {
+        "distanceFromCity": 30,
+        "worth": 666666
+      }
+    }
+  ]
+}

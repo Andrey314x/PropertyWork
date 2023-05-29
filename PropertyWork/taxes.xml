@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<Owners>
+	<summary_taxes>12892</summary_taxes>
+	<Owner fullname="Ivanov I.I.">
+		<inn>123123123123</inn>
+		<Sumary_tax>1943</Sumary_tax>
+		<Properties>
+			<Property type="Appartment">
+				<tax>555</tax>
+				<income_tax>72222</income_tax>
+			</Property>
+			<Property type="Appartment">
+				<tax>666</tax>
+				<income_tax>86666</income_tax>
+			</Property>
+			<Property type="Car">
+				<tax>54</tax>
+				<income_tax>10111</income_tax>
+			</Property>
+			<Property type="CountryHouse">
+				<tax>666</tax>
+				<income_tax>86666</income_tax>
+			</Property>
+		</Properties>
+	</Owner>
+	<Owner fullname="Petrov P.P.">
+		<inn>123412312312</inn>
+		<Sumary_tax>1049</Sumary_tax>
+		<Properties>
+			<Property type="Appartment">
+				<tax>600</tax>
+				<income_tax>78000</income_tax>
+			</Property>
+			<Property type="Car">
+				<tax>49</tax>
+				<income_tax>9100</income_tax>
+			</Property>
+			<Property type="CountryHouse">
+				<tax>400</tax>
+				<income_tax>13000</income_tax>
+			</Property>
+		</Properties>
+	</Owner>
+	<Owner fullname="Sidorov S.S.">
+		<inn>321321321321</inn>
+		<Sumary_tax>9900</Sumary_tax>
+		<Properties>
+			<Property type="Appartment">
+				<tax>800</tax>
+				<income_tax>104000</income_tax>
+			</Property>
+			<Property type="Car">
+				<tax>4900</tax>
+				<income_tax>91000</income_tax>
+			</Property>
+			<Property type="Car">
+				<tax>4200</tax>
+				<income_tax>78000</income_tax>
+			</Property>
+		</Properties>
+	</Owner>
+</Owners>

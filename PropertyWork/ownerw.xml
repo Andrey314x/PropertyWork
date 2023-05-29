@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<Owners>
+	<Owner fullname="Ivanov I.I.">
+		<inn>123123123123</inn>
+		<Properties>
+			<Property type="Appartment">
+				<worth>55.5</worth>
+				<square />
+			</Property>
+			<Property type="Appartment">
+				<worth>66.599999999999994</worth>
+				<square />
+			</Property>
+			<Property type="Car">
+				<worth>1.7</worth>
+				<horsepower />
+			</Property>
+			<Property type="CountryHouse">
+				<worth>30</worth>
+				<distanceFromCity />
+			</Property>
+		</Properties>
+	</Owner>
+	<Owner fullname="Petrov P.P.">
+		<inn>123412312312</inn>
+		<Properties>
+			<Property type="Appartment">
+				<worth>60</worth>
+				<square />
+			</Property>
+			<Property type="Car">
+				<worth>50</worth>
+				<horsepower />
+			</Property>
+			<Property type="CountryHouse">
+				<worth>150</worth>
+				<distanceFromCity />
+			</Property>
+		</Properties>
+	</Owner>
+	<Owner fullname="Sidorov S.S.">
+		<inn>321321321321</inn>
+		<Properties>
+			<Property type="Appartment">
+				<worth>100</worth>
+				<square />
+			</Property>
+			<Property type="Car">
+				<worth>150</worth>
+				<horsepower />
+			</Property>
+			<Property type="Car">
+				<worth>140</worth>
+				<horsepower />
+			</Property>
+		</Properties>
+	</Owner>
+</Owners>
